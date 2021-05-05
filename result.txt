@@ -1,0 +1,22 @@
+Accuracy
+{H1 : Information Gain 
+H2 : Vaariance Impurity}
+
+Dataset1 
+
+H1 Training 1.0
+H1 Validation 0.965
+H1 Test 0.9566666666666667
+H2 Training 1.0
+H2 Validation 0.9666666666666667
+H2 Test 0.9533333333333334
+
+
+Dataset2
+
+H1 Training 0.9983333333333333
+H1 Validation 0.7716666666666666
+H1 Test 0.7233333333333334
+H2 Training 0.9983333333333333
+H2 Validation 0.7716666666666666
+H2 Test 0.725
